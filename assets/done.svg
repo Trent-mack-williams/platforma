@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.001" height="18.001" viewBox="0 0 18.001 18.001">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="18.001" height="18.001" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_24px_Done" data-name="Icons – 24px / Done" clip-path="url(#clip-path)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M0,9a9,9,0,1,1,9,9A9.012,9.012,0,0,1,0,9ZM1.5,9A7.5,7.5,0,1,0,9,1.5,7.5,7.5,0,0,0,1.5,9Zm2.469.148,1.061-1.06,2.893,2.892,5.3-5.31,1.064,1.061L7.928,13.1Z" transform="translate(0.001 0)"/>
+  </g>
+</svg>

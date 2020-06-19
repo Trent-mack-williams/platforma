@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_24px_Time" data-name="Icons – 24px / Time" clip-path="url(#clip-path)">
+    <path id="Icon" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM10,1.667A8.338,8.338,0,0,0,4.1,15.9,8.338,8.338,0,0,0,15.9,4.1,8.281,8.281,0,0,0,10,1.667ZM14.766,11.9H8.8V3.8h1.667v6.437h4.3V11.9Z" transform="translate(0 0)"/>
+  </g>
+</svg>

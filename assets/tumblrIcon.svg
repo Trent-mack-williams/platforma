@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Social_Icons_16px_Tumblr" data-name="Social Icons – 16px / Tumblr" clip-path="url(#clip-path)">
+    <path id="Icon" d="M8.012,16a8,8,0,1,1,0-16,8,8,0,0,1,0,16ZM7.178,3.279A2.782,2.782,0,0,1,5.123,5.895v1.5H6.4v2.764a2.411,2.411,0,0,0,.7,1.871,2.55,2.55,0,0,0,1.749.577H10.4V10.769H9.575c-.643,0-.943-.309-.943-.971V7.391h1.7V5.652h-1.7V3.279Z" transform="translate(0 0)"/>
+  </g>
+</svg>

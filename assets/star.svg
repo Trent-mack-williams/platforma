@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21.001" viewBox="0 0 22 21.001">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22" height="21.001" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_24px_Star" data-name="Icons – 24px / Star" clip-path="url(#clip-path)">
+    <path id="Icon" d="M4.2,21v0l2.334-7.934L0,8.021,8.24,7.8,11,0l2.76,7.8L22,8.021l-6.535,5.044L17.8,21,11,16.321,4.2,21Zm6.8-6.59h0l4.042,2.782-1.388-4.719,3.887-3-4.9-.134L11,4.705,9.359,9.341l-4.9.134,3.886,3-1.388,4.72L11,14.411Z" transform="translate(0 0)"/>
+  </g>
+</svg>

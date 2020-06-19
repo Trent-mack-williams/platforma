@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.003" height="20.003" viewBox="0 0 20.003 20.003">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20.003" height="20.003" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_24px_Play_Video" data-name="Icons – 24px / Play, Video" clip-path="url(#clip-path)">
+    <path id="Union_1" data-name="Union 1" d="M15632.43,6653.572a10,10,0,1,1,7.074,2.93A9.936,9.936,0,0,1,15632.43,6653.572Zm-1.43-7.073a8.5,8.5,0,1,0,8.5-8.5A8.512,8.512,0,0,0,15631,6646.5Zm6.5-4,6,4-6,4Z" transform="translate(-15629.5 -6636.5)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="2" viewBox="0 0 18 2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="18" height="2" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_24px_Minus" data-name="Icons – 24px / Minus" clip-path="url(#clip-path)">
+    <rect id="Icon" width="2" height="18" transform="translate(0 2) rotate(-90)"/>
+  </g>
+</svg>
