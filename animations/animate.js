@@ -95,7 +95,6 @@ export const Animates = () => {
 
       entries.forEach((entry) => {
         entry.target.parentElement.style.overflowX = "hidden";
-        console.dir(entry.target.parentElement.style.overflowX);
         if (entry.isIntersecting) {
           entry.target.style.position = "relative";
           entry.target.style.right = "0%";
